@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // ===================== 【必须修改】WiFi配置区 =====================
-const char* ssid = "你的2.4G WiFi名称";
-const char* password = "你的WiFi密码";
+const char* ssid = "张元英";
+const char* password = "96518133";
 // ======================================================================
 
 WebServer server(80);
